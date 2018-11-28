@@ -1,2 +1,2 @@
-# Travelling-Salesman
+# Traveling-Salesman
 Traveling Salesman with hill climbing
