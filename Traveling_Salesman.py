@@ -73,7 +73,7 @@ def swap_cities(x,y):
 		x[a] , x[b] = x[b], x[a]
 		y[a] , y[b] = y[b], y[a]
 		total_dist = new_total
-		distance_list[j] = temp2
+		distance_list[b] = temp2
 		if (a == 0) and (b != len(x)-1):
 			distance_list[len(x)-1] = temp1
 		elif a != 0:
